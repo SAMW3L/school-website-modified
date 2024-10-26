@@ -41,21 +41,21 @@ const Contact = () => {
                 <MapPin className="h-6 w-6 text-indigo-600 mt-1 mr-4" />
                 <div>
                   <h3 className="font-semibold">Address</h3>
-                  <p className="text-gray-600">123 Education Street<br />City, State 12345</p>
+                  <p className="text-gray-600">001 Street<br />City, Tanzania</p>
                 </div>
               </div>
               <div className="flex items-start">
                 <Phone className="h-6 w-6 text-indigo-600 mt-1 mr-4" />
                 <div>
                   <h3 className="font-semibold">Phone</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+255 613 004 338</p>
                 </div>
               </div>
               <div className="flex items-start">
                 <Mail className="h-6 w-6 text-indigo-600 mt-1 mr-4" />
                 <div>
                   <h3 className="font-semibold">Email</h3>
-                  <p className="text-gray-600">info@excellenceacademy.edu</p>
+                  <p className="text-gray-600">info@aboveaverage.edu</p>
                 </div>
               </div>
               <div className="flex items-start">
