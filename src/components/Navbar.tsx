@@ -19,11 +19,11 @@ const Navbar = () => {
   return (
     <nav className="bg-white shadow-lg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16">
+        <div className="flex justify-between h-50">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <GraduationCap className="h-8 w-8 text-indigo-600" />
-              <span className="ml-2 text-xl font-bold text-gray-800">Above Average</span>
+              <span className="color-blue ml-1 text-xl font-bold text-gray-800">Above Average Academy</span>
             </Link>
           </div>
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Facebook, Twitter, Instagram, Mail, Phone, MapPin } from 'lucide-react';
+import { Facebook,Twitter, Instagram, Mail, Phone, MapPin } from 'lucide-react';
 
 const Footer = () => {
   return (
@@ -13,15 +13,15 @@ const Footer = () => {
             <div className="space-y-2">
               <div className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2" />
-                <span>123 Education Street, City, Country</span>
+                <span>001 Street, City, Tanzania</span>
               </div>
               <div className="flex items-center">
                 <Phone className="h-5 w-5 mr-2" />
-                <span>+1 (555) 123-4567</span>
+                <span>+255 613 004 338</span>
               </div>
               <div className="flex items-center">
                 <Mail className="h-5 w-5 mr-2" />
-                <span>info@excellenceacademy.edu</span>
+                <span>info@aboveaveraagetz.edu</span>
               </div>
             </div>
           </div>
@@ -68,12 +68,15 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Connect With Us</h3>
             <div className="flex space-x-4">
+               {/* facebook account ya shule */}
               <a href="#" className="hover:text-indigo-400">
                 <Facebook className="h-6 w-6" />
               </a>
+              {/* Twitter account ya shule */}
               <a href="#" className="hover:text-indigo-400">
                 <Twitter className="h-6 w-6" />
               </a>
+              {/* instagram account ya shule */}
               <a href="#" className="hover:text-indigo-400">
                 <Instagram className="h-6 w-6" />
               </a>
@@ -82,7 +85,8 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-          <p>&copy; {new Date().getFullYear()} Excellence Academy. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Above Average Academy. All rights reserved.</p>
+          <p>Designed by <a href='https://samw3l.github.io/portifolio/'>SAMU3L</a></p>
         </div>
       </div>
     </footer>
