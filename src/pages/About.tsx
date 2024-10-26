@@ -20,7 +20,7 @@ const About = () => {
   return (
     <div>
       <PageHeader 
-        title="About Excellence Academy" 
+        title="About Above Average Academy" 
         description="Building tomorrow's leaders through excellence in education"
       />
 
@@ -56,7 +56,7 @@ const About = () => {
             <History className="h-8 w-8 text-indigo-600 mr-4 mt-1 flex-shrink-0" />
             <div className="space-y-4">
               <p className="text-gray-600">
-                Founded in 1970, Excellence Academy has grown from a small local school 
+                Founded in 1970, Above Average Academy has grown from a small local school 
                 to one of the region's most prestigious educational institutions.
               </p>
               <p className="text-gray-600">
