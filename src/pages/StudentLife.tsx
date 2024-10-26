@@ -110,7 +110,7 @@ const StudentLife = () => {
             </div>
             <div className="bg-white rounded-lg p-6 shadow-md">
               <h3 className="font-semibold text-lg mb-2">National Debate Champions</h3>
-              <p className="text-gray-600">Excellence Academy Debate Team secured the national title</p>
+              <p className="text-gray-600">Abovre Average Academy Debate Team secured the national title</p>
             </div>
           </div>
         </div>
