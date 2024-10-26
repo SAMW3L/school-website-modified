@@ -6,12 +6,12 @@ import { Users, History, Target, Award } from 'lucide-react';
 const About = () => {
   const staff = [
     {
-      name: "Dr. Sarah Johnson",
+      name: "Dr. Sarah Samuel",
       role: "Principal",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80"
     },
     {
-      name: "Prof. Michael Chen",
+      name: "Prof. Samuel Samuel",
       role: "Vice Principal",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80"
     }
