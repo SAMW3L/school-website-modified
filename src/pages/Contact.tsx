@@ -27,7 +27,7 @@ const Contact = () => {
     <div>
       <PageHeader 
         title="Contact Us" 
-        description="Get in touch with Excellence Academy"
+        description="Get in touch with Above Average Academy"
         backgroundImage="https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
       />
 
