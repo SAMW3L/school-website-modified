@@ -47,12 +47,12 @@ const StudentLife = () => {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Overview */}
-        <Card title="Life at Excellence Academy" className="mb-12">
+        <Card title="Life at Above Average Academy" className="mb-12">
           <div className="flex items-start">
             <Users className="h-8 w-8 text-indigo-600 mr-4 mt-1 flex-shrink-0" />
             <div className="space-y-4">
               <p className="text-gray-600">
-                At Excellence Academy, we believe in nurturing well-rounded individuals. 
+                At Above Average Academy, we believe in nurturing well-rounded individuals. 
                 Our diverse range of extracurricular activities, clubs, and programs 
                 provide students with opportunities to explore their interests, develop 
                 new skills, and build lasting friendships.
