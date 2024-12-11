@@ -86,7 +86,9 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p>&copy; {new Date().getFullYear()} Above Average Academy. All rights reserved.</p>
-          <p>Designed by <a href='https://samuel-portifolio-two.vercel.app/'>SAMU3L</a></p>
+          <p><a href="https://samuel-portifolio-two.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+      Designed by SAMUEL(0613004338) </a>
+         </p>
         </div>
       </div>
     </footer>
