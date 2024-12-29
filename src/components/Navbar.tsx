@@ -38,9 +38,9 @@ const Navbar = () => {
                 {item.name}
               </Link>
             ))}
-            <button className="flex items-center text-gray-600 hover:text-indigo-600">
+            {/* <button className="flex items-center text-gray-600 hover:text-indigo-600">
               <Globe className="h-5 w-5" />
-            </button>
+            </button> */}
           </div>
 
           {/* Mobile menu button */}
